@@ -1,0 +1,17 @@
+# Models — never commit these
+*.gguf
+*.bin
+*.safetensors
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Python (if you ever add scripts)
+__pycache__/
+*.pyc
+.venv/

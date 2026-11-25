@@ -1,0 +1,9 @@
+model,size,params,backend,n_gpu_layers,test,t/s
+qwen2.5-7b-q4_k_m.gguf,4.10 GiB,7.62 B,CUDA,99,pp512,15380.20
+qwen2.5-7b-q4_k_m.gguf,4.10 GiB,7.62 B,CUDA,99,tg128,241.60
+llama-3.1-8b-q4_k_m.gguf,4.58 GiB,8.03 B,CUDA,99,pp512,14002.70
+llama-3.1-8b-q4_k_m.gguf,4.58 GiB,8.03 B,CUDA,99,tg128,219.40
+mistral-7b-instruct-q4_k_m.gguf,4.07 GiB,7.24 B,CUDA,99,pp512,15901.30
+mistral-7b-instruct-q4_k_m.gguf,4.07 GiB,7.24 B,CUDA,99,tg128,248.10
+gemma-2-9b-q4_k_m.gguf,5.42 GiB,9.24 B,CUDA,99,pp512,12800.40
+gemma-2-9b-q4_k_m.gguf,5.42 GiB,9.24 B,CUDA,99,tg128,198.30
