@@ -2,7 +2,7 @@
 
 Hand-collected `llama-bench` results across consumer GPUs, Apple Silicon and server cards. Only generation speed (tg) and prompt processing (pp). No scripts, no CI — just raw text data.
 
-[![Last update](https://img.shields.io/badge/last%20update-2026--02--15-blue)]()
+[![Last update](https://img.shields.io/badge/last%20update-2026--02--15-blue)]() 
 [![Benchmarks](https://img.shields.io/badge/benchmarks-47-green)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
 
